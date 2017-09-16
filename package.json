@@ -1,6 +1,6 @@
 {
   "name": "@elasticprojects/pusher-js",
-  "version": "4.1.3",
+  "version": "4.1.4",
   "description": "Pusher JavaScript library for browsers, React Native, NodeJS and web workers",
   "main": "dist/web/pusher.js",
   "scripts": {
