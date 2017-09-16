@@ -2,8 +2,7 @@
   "name": "@elasticprojects/pusher-js",
   "version": "4.1.3",
   "description": "Pusher JavaScript library for browsers, React Native, NodeJS and web workers",
-  "main": "dist/node/pusher.js",
-  "browser": "dist/web/pusher.js",
+  "main": "dist/web/pusher.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
